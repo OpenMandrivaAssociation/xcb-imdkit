@@ -15,6 +15,7 @@ BuildSystem:	cmake
 BuildRequires:	pkgconfig(xcb)
 BuildRequires:	pkgconfig(xcb-util)
 BuildRequires:	pkgconfig(xcb-keysyms)
+BuildRequires:	cmake(ECM)
 
 %description
 xcb-imdkit is an implementation of xim protocol in xcb, comparing with the
