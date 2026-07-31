@@ -3,8 +3,8 @@
 %define devname %mklibname xcb-imdkit -d
 
 Name:		xcb-imdkit
-Version:	0.0
-Release:	0.20250130.1
+Version:	1.0.9
+Release:	1
 Source0:	https://github.com/fcitx/xcb-imdkit/archive/refs/heads/master.tar.gz#/%{name}-%{release}.tar.gz
 Summary:	Input method development support for XCB
 URL:		https://github.com/fcitx/xcb-imdkit
